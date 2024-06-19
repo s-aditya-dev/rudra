@@ -1,0 +1,25 @@
+/* Resetting default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    align-items: start !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+.center-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100svh;
+}
+/* Global styles */
+
+
+/* Responsive design */

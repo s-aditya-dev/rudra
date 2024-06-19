@@ -1,0 +1,104 @@
+/* .client-table {
+  width: 100%;
+  max-height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin: 0px auto;
+  background: var(--color-white);
+  padding: 0 15px 10px;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--card-border-radius);
+  font-family: Poppins, sans-serif;
+}
+
+.client-table-header {
+  height: 90px;
+  padding: 0 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.client-table-header .searchbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.client-table-header .searchbar input {
+  background: var(--color-white);
+  height: 35px;
+  padding: 10px 20px;
+  color: var(--color-dark);
+  border: 2px solid var(--color-dark);
+  border-radius: var(--border-radius-1);
+  font-size: 1rem;
+  font-family: Poppins, sans-serif;
+  margin: 0;
+}
+
+.client-table .client-table-header .searchbar button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 35px;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  padding: 5px;
+  border: 2px solid var(--color-primary);
+  border-radius: var(--border-radius-1);
+  cursor: pointer;
+  float: right;
+}
+
+.client-table button {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  padding: 10px 20px;
+  border-radius: var(--border-radius-1);
+  cursor: pointer;
+  float: right;
+}
+
+.client-table button:hover {
+  background-color: var(--color-primary-dark);
+}
+
+.client-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  table-layout: fixed;
+}
+
+.client-table table thead {
+  position: sticky;
+  top: 0;
+  background: var(--color-white);
+}
+
+
+.client-table th, td {
+  padding: 12px;
+  text-align: center;
+  font-size: 1rem;
+  font-family: Poppins, sans-serif;
+}
+
+.client-table th{
+  font-size: 1.1rem;
+}
+
+@media (width < 1150px) {
+  .client-table .VisitSection {
+    display: none;
+  }
+  
+  .client-table .VisitSection:last-child {
+    display: block;
+  }
+  
+} */
