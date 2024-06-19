@@ -9,7 +9,7 @@ import clientRoute from "./routes/client.route.js";
 import clientVisitRoute from "./routes/clientVisit.route.js";
 import visitsRoute from "./routes/visits.route.js";
 
-const port = 8000;
+const port =process.env.PORT || 8000;
 
 const app = express();
 dotenv.config();
